@@ -625,11 +625,11 @@ footer{
   width: calc(250px * 18);
   animation: scroll 40s linear infinite;
 }
-
+/*
 .slide1-track:hover{
      animation-play-state:paused ;
 }
-
+*/
 @keyframes scroll{
   0%{
       transform: translateX(0);
